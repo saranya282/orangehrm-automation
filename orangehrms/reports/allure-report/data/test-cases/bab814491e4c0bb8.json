@@ -1,0 +1,169 @@
+{
+  "uid" : "bab814491e4c0bb8",
+  "name" : "verifyDeleteEmployee",
+  "fullName" : "compareclub.orangehrms.PimTest.verifyDeleteEmployee",
+  "historyId" : "5e1410dd0dfc2c7cd4df3407ff6662b9",
+  "time" : {
+    "start" : 1765257375058,
+    "stop" : 1765257380673,
+    "duration" : 5615
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driverSetup",
+    "time" : {
+      "start" : 1765257301450,
+      "stop" : 1765257319519,
+      "duration" : 18069
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setupObjects",
+    "time" : {
+      "start" : 1765257319522,
+      "stop" : 1765257319544,
+      "duration" : 22
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1765257382534,
+      "stop" : 1765257383657,
+      "duration" : 1123
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testClass",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyDeleteEmployee"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N96C7RB"
+  }, {
+    "name" : "thread",
+    "value" : "19768@DESKTOP-N96C7RB.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "da067acc2d7c71af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765256860755,
+        "stop" : 1765256864982,
+        "duration" : 4227
+      }
+    }, {
+      "uid" : "2e60d23b5d6a7cce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765255921996,
+        "stop" : 1765255927774,
+        "duration" : 5778
+      }
+    }, {
+      "uid" : "17e821238ca56292",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765255790773,
+        "stop" : 1765255795783,
+        "duration" : 5010
+      }
+    }, {
+      "uid" : "7a97af8b4bd3a531",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765255486852,
+        "stop" : 1765255492628,
+        "duration" : 5776
+      }
+    }, {
+      "uid" : "f2d27be1e8b45c38",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='oxd-table-card']//div[text()='E1749']/ancestor::div[@class='oxd-table-card']//button[@title='Delete'] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.25.0', revision: '8a8aea2337'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 13712, moz:profile: C:\\Users\\SARNYA~1\\AppData\\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}\nSession ID: 8066745f-5fd0-490c-b831-ddd1939db76b",
+      "time" : {
+        "start" : 1765254538204,
+        "stop" : 1765254559830,
+        "duration" : 21626
+      }
+    }, {
+      "uid" : "32c60388a9965210",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='oxd-table-card']//div[text()='E1690']/ancestor::div[@class='oxd-table-card']//button[@title='Delete'] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.25.0', revision: '8a8aea2337'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 5724, moz:profile: C:\\Users\\SARNYA~1\\AppData\\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}\nSession ID: 38b3e6c2-67b8-418c-9cd3-c3bedaddc604",
+      "time" : {
+        "start" : 1765254495759,
+        "stop" : 1765254517351,
+        "duration" : 21592
+      }
+    }, {
+      "uid" : "19f05178e21135a1",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //div[@class='oxd-table-card']//div[text()='E7001']/ancestor::div[@class='oxd-table-card']//button[@title='Delete'] (tried for 20 second(s) with 500 milliseconds interval)\nBuild info: version: '4.25.0', revision: '8a8aea2337'\nSystem info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'\nDriver info: org.openqa.selenium.firefox.FirefoxDriver\nCapabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 143.0.1, moz:accessibilityChecks: false, moz:buildID: 20250918214338, moz:geckodriverVersion: 0.36.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 14768, moz:profile: C:\\Users\\SARNYA~1\\AppData\\L..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}\nSession ID: 58e64545-b296-48fc-9902-24d22e06ebc3",
+      "time" : {
+        "start" : 1765254328688,
+        "stop" : 1765254350166,
+        "duration" : 21478
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bab814491e4c0bb8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "6693c9d384ac6042",
+  "name" : "verifyLogoutTest",
+  "fullName" : "compareclub.orangehrms.PimTest.verifyLogoutTest",
+  "historyId" : "a96d9750490fc61d970c61a56620316c",
+  "time" : {
+    "start" : 1765255795783,
+    "stop" : 1765255797533,
+    "duration" : 1750
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testClass",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyLogoutTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N96C7RB"
+  }, {
+    "name" : "thread",
+    "value" : "11004@DESKTOP-N96C7RB.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6693c9d384ac6042.json",
+  "parameterValues" : [ ]
+}

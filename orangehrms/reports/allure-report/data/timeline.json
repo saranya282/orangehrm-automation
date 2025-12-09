@@ -1,0 +1,574 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-N96C7RB",
+    "children" : [ {
+      "name" : "25072@DESKTOP-N96C7RB.main(1)",
+      "children" : [ {
+        "name" : "verifyEditEmployee",
+        "uid" : "55d41c0a25d046a3",
+        "parentUid" : "fd02eb3b6c36ac236749cce0005748a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254311817,
+          "stop" : 1765254323598,
+          "duration" : 11781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyLoginTest",
+        "uid" : "331ede288b216ffc",
+        "parentUid" : "fd02eb3b6c36ac236749cce0005748a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254285513,
+          "stop" : 1765254288146,
+          "duration" : 2633
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyAddEmployee",
+        "uid" : "e011c23943764382",
+        "parentUid" : "fd02eb3b6c36ac236749cce0005748a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254298782,
+          "stop" : 1765254311803,
+          "duration" : 13021
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyEmployeeUsingApi",
+        "uid" : "3f8973e06529385a",
+        "parentUid" : "fd02eb3b6c36ac236749cce0005748a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254323604,
+          "stop" : 1765254328681,
+          "duration" : 5077
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDeleteEmployee",
+        "uid" : "19f05178e21135a1",
+        "parentUid" : "fd02eb3b6c36ac236749cce0005748a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1765254328688,
+          "stop" : 1765254350166,
+          "duration" : 21478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd02eb3b6c36ac236749cce0005748a4"
+    }, {
+      "name" : "13952@DESKTOP-N96C7RB.main(1)",
+      "children" : [ {
+        "name" : "verifyLogoutTest",
+        "uid" : "280569c6b39f1b25",
+        "parentUid" : "b5a00be39b59de7e87db4e2eb71f5e54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765256864988,
+          "stop" : 1765256866760,
+          "duration" : 1772
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDeleteEmployee",
+        "uid" : "da067acc2d7c71af",
+        "parentUid" : "b5a00be39b59de7e87db4e2eb71f5e54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765256860755,
+          "stop" : 1765256864982,
+          "duration" : 4227
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyEmployeeUsingApi",
+        "uid" : "28936b8e61d14e4c",
+        "parentUid" : "b5a00be39b59de7e87db4e2eb71f5e54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765256854293,
+          "stop" : 1765256860755,
+          "duration" : 6462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyAddEmployee",
+        "uid" : "434a5ce4ae58a570",
+        "parentUid" : "b5a00be39b59de7e87db4e2eb71f5e54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765256827874,
+          "stop" : 1765256841542,
+          "duration" : 13668
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyEditEmployee",
+        "uid" : "c134902e32aef65",
+        "parentUid" : "b5a00be39b59de7e87db4e2eb71f5e54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765256841557,
+          "stop" : 1765256854283,
+          "duration" : 12726
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyLoginTest",
+        "uid" : "b631bd10ac388cca",
+        "parentUid" : "b5a00be39b59de7e87db4e2eb71f5e54",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765256814918,
+          "stop" : 1765256818202,
+          "duration" : 3284
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5a00be39b59de7e87db4e2eb71f5e54"
+    }, {
+      "name" : "19768@DESKTOP-N96C7RB.main(1)",
+      "children" : [ {
+        "name" : "verifyDeleteEmployee",
+        "uid" : "bab814491e4c0bb8",
+        "parentUid" : "b40dc06d2159bec3aee3319e82d583ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765257375058,
+          "stop" : 1765257380673,
+          "duration" : 5615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyAddEmployee",
+        "uid" : "fdc8d5a0821c8937",
+        "parentUid" : "b40dc06d2159bec3aee3319e82d583ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765257319926,
+          "stop" : 1765257344659,
+          "duration" : 24733
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyEditEmployee",
+        "uid" : "4064d9947e6ae323",
+        "parentUid" : "b40dc06d2159bec3aee3319e82d583ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765257344678,
+          "stop" : 1765257367576,
+          "duration" : 22898
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyLoginTest",
+        "uid" : "2b4b314364c92c8b",
+        "parentUid" : "b40dc06d2159bec3aee3319e82d583ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765257280033,
+          "stop" : 1765257298676,
+          "duration" : 18643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyEmployeeUsingApi",
+        "uid" : "249a97d72368dfb5",
+        "parentUid" : "b40dc06d2159bec3aee3319e82d583ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765257367593,
+          "stop" : 1765257375051,
+          "duration" : 7458
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyLogoutTest",
+        "uid" : "1da57bd1d443622b",
+        "parentUid" : "b40dc06d2159bec3aee3319e82d583ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765257380677,
+          "stop" : 1765257382532,
+          "duration" : 1855
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b40dc06d2159bec3aee3319e82d583ff"
+    }, {
+      "name" : "11004@DESKTOP-N96C7RB.main(1)",
+      "children" : [ {
+        "name" : "verifyEditEmployee",
+        "uid" : "36bf7dc4f797a917",
+        "parentUid" : "cd6b4de1df2d6972a7a4e445d1021ec5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255768835,
+          "stop" : 1765255784110,
+          "duration" : 15275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyDeleteEmployee",
+        "uid" : "17e821238ca56292",
+        "parentUid" : "cd6b4de1df2d6972a7a4e445d1021ec5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255790773,
+          "stop" : 1765255795783,
+          "duration" : 5010
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyEmployeeUsingApi",
+        "uid" : "44124c371cf91864",
+        "parentUid" : "cd6b4de1df2d6972a7a4e445d1021ec5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255784118,
+          "stop" : 1765255790762,
+          "duration" : 6644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyAddEmployee",
+        "uid" : "3c493635b63f71a3",
+        "parentUid" : "cd6b4de1df2d6972a7a4e445d1021ec5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255754994,
+          "stop" : 1765255768660,
+          "duration" : 13666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyLogoutTest",
+        "uid" : "6693c9d384ac6042",
+        "parentUid" : "cd6b4de1df2d6972a7a4e445d1021ec5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255795783,
+          "stop" : 1765255797533,
+          "duration" : 1750
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cd6b4de1df2d6972a7a4e445d1021ec5"
+    }, {
+      "name" : "1968@DESKTOP-N96C7RB.main(1)",
+      "children" : [ {
+        "name" : "verifyLoginTest",
+        "uid" : "a0b35d7adb9e117d",
+        "parentUid" : "7a5cfdab60dc918c3cc4490bf98d6e1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255874004,
+          "stop" : 1765255877019,
+          "duration" : 3015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyEditEmployee",
+        "uid" : "29d1b4516762e271",
+        "parentUid" : "7a5cfdab60dc918c3cc4490bf98d6e1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255900514,
+          "stop" : 1765255916084,
+          "duration" : 15570
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyLogoutTest",
+        "uid" : "8aa35739bf0748e9",
+        "parentUid" : "7a5cfdab60dc918c3cc4490bf98d6e1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255927782,
+          "stop" : 1765255929585,
+          "duration" : 1803
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyAddEmployee",
+        "uid" : "865f7afc96750996",
+        "parentUid" : "7a5cfdab60dc918c3cc4490bf98d6e1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255886237,
+          "stop" : 1765255900481,
+          "duration" : 14244
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyDeleteEmployee",
+        "uid" : "2e60d23b5d6a7cce",
+        "parentUid" : "7a5cfdab60dc918c3cc4490bf98d6e1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255921996,
+          "stop" : 1765255927774,
+          "duration" : 5778
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyEmployeeUsingApi",
+        "uid" : "424e21a2962eaee3",
+        "parentUid" : "7a5cfdab60dc918c3cc4490bf98d6e1e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255916088,
+          "stop" : 1765255921989,
+          "duration" : 5901
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a5cfdab60dc918c3cc4490bf98d6e1e"
+    }, {
+      "name" : "27040@DESKTOP-N96C7RB.main(1)",
+      "children" : [ {
+        "name" : "verifyLoginTest",
+        "uid" : "eda13ba81646738e",
+        "parentUid" : "c31c1908f430630d6edf0066ac8fef6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254494392,
+          "stop" : 1765254497084,
+          "duration" : 2692
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDeleteEmployee",
+        "uid" : "f2d27be1e8b45c38",
+        "parentUid" : "c31c1908f430630d6edf0066ac8fef6f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1765254538204,
+          "stop" : 1765254559830,
+          "duration" : 21626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyEmployeeUsingApi",
+        "uid" : "402c06b626c7c325",
+        "parentUid" : "c31c1908f430630d6edf0066ac8fef6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254533630,
+          "stop" : 1765254538198,
+          "duration" : 4568
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyEditEmployee",
+        "uid" : "83ee713e2f806a50",
+        "parentUid" : "c31c1908f430630d6edf0066ac8fef6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254518628,
+          "stop" : 1765254533625,
+          "duration" : 14997
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyAddEmployee",
+        "uid" : "442b5996d7a5e00",
+        "parentUid" : "c31c1908f430630d6edf0066ac8fef6f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254506258,
+          "stop" : 1765254518610,
+          "duration" : 12352
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      } ],
+      "uid" : "c31c1908f430630d6edf0066ac8fef6f"
+    }, {
+      "name" : "22480@DESKTOP-N96C7RB.main(1)",
+      "children" : [ {
+        "name" : "verifyEditEmployee",
+        "uid" : "b8b8f25a71d39640",
+        "parentUid" : "fd0f82045c68b4fd48b62fba27318552",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254474086,
+          "stop" : 1765254487143,
+          "duration" : 13057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyAddEmployee",
+        "uid" : "336d44b7a69f6f26",
+        "parentUid" : "fd0f82045c68b4fd48b62fba27318552",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254461162,
+          "stop" : 1765254473964,
+          "duration" : 12802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyEmployeeUsingApi",
+        "uid" : "1293af22228dbb92",
+        "parentUid" : "fd0f82045c68b4fd48b62fba27318552",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765254487151,
+          "stop" : 1765254495741,
+          "duration" : 8590
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyDeleteEmployee",
+        "uid" : "32c60388a9965210",
+        "parentUid" : "fd0f82045c68b4fd48b62fba27318552",
+        "status" : "broken",
+        "time" : {
+          "start" : 1765254495759,
+          "stop" : 1765254517351,
+          "duration" : 21592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd0f82045c68b4fd48b62fba27318552"
+    }, {
+      "name" : "11416@DESKTOP-N96C7RB.main(1)",
+      "children" : [ {
+        "name" : "verifyAddEmployee",
+        "uid" : "83cd49ecbd800509",
+        "parentUid" : "2fa5131fb1e0e6dd82b2780cb759719d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255453383,
+          "stop" : 1765255466364,
+          "duration" : 12981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyEditEmployee",
+        "uid" : "5c187c94b288164f",
+        "parentUid" : "2fa5131fb1e0e6dd82b2780cb759719d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255466478,
+          "stop" : 1765255480286,
+          "duration" : 13808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+      }, {
+        "name" : "verifyDeleteEmployee",
+        "uid" : "7a97af8b4bd3a531",
+        "parentUid" : "2fa5131fb1e0e6dd82b2780cb759719d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255486852,
+          "stop" : 1765255492628,
+          "duration" : 5776
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "verifyEmployeeUsingApi",
+        "uid" : "ee10beefdded0279",
+        "parentUid" : "2fa5131fb1e0e6dd82b2780cb759719d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1765255480299,
+          "stop" : 1765255486835,
+          "duration" : 6536
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2fa5131fb1e0e6dd82b2780cb759719d"
+    } ],
+    "uid" : "c2320799629353140cc0178e86c87458"
+  } ]
+}

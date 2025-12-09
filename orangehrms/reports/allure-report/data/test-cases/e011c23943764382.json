@@ -1,0 +1,111 @@
+{
+  "uid" : "e011c23943764382",
+  "name" : "verifyAddEmployee",
+  "fullName" : "compareclub.orangehrms.PimTest.verifyAddEmployee",
+  "historyId" : "5c547d53f04a19c04cb682d236667e21",
+  "time" : {
+    "start" : 1765254298782,
+    "stop" : 1765254311803,
+    "duration" : 13021
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driverSetup",
+    "time" : {
+      "start" : 1765254290546,
+      "stop" : 1765254298314,
+      "duration" : 7768
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setupObjects",
+    "time" : {
+      "start" : 1765254298314,
+      "stop" : 1765254298349,
+      "duration" : 35
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1765254350172,
+      "stop" : 1765254351078,
+      "duration" : 906
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testClass",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyAddEmployee"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N96C7RB"
+  }, {
+    "name" : "thread",
+    "value" : "25072@DESKTOP-N96C7RB.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e011c23943764382.json",
+  "parameterValues" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+}

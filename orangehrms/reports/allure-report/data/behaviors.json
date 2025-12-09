@@ -1,0 +1,83 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "verifyLoginTest",
+    "uid" : "2b4b314364c92c8b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1765257280033,
+      "stop" : 1765257298676,
+      "duration" : 18643
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyAddEmployee",
+    "uid" : "fdc8d5a0821c8937",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1765257319926,
+      "stop" : 1765257344659,
+      "duration" : 24733
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+  }, {
+    "name" : "verifyEditEmployee",
+    "uid" : "4064d9947e6ae323",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1765257344678,
+      "stop" : 1765257367576,
+      "duration" : 22898
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "{firstName=Saranya, lastName=Mallu, employmentStatus=Full-Time Permanent, jobTitle=Automaton Tester}" ]
+  }, {
+    "name" : "verifyEmployeeUsingApi",
+    "uid" : "249a97d72368dfb5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1765257367593,
+      "stop" : 1765257375051,
+      "duration" : 7458
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyDeleteEmployee",
+    "uid" : "bab814491e4c0bb8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1765257375058,
+      "stop" : 1765257380673,
+      "duration" : 5615
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "verifyLogoutTest",
+    "uid" : "1da57bd1d443622b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1765257380677,
+      "stop" : 1765257382532,
+      "duration" : 1855
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 09 10:44:40 IST 2025","Tue Dec 09 10:44:58 IST 2025","18643","Surefire suite","Surefire test","compareclub.orangehrms.LoginTest","compareclub.orangehrms.LoginTest","verifyLoginTest","verifyLoginTest",""
+"passed","Tue Dec 09 10:46:07 IST 2025","Tue Dec 09 10:46:15 IST 2025","7458","Surefire suite","Surefire test","compareclub.orangehrms.PimTest","compareclub.orangehrms.PimTest","verifyEmployeeUsingApi","verifyEmployeeUsingApi",""
+"passed","Tue Dec 09 10:46:15 IST 2025","Tue Dec 09 10:46:20 IST 2025","5615","Surefire suite","Surefire test","compareclub.orangehrms.PimTest","compareclub.orangehrms.PimTest","verifyDeleteEmployee","verifyDeleteEmployee",""
+"passed","Tue Dec 09 10:46:20 IST 2025","Tue Dec 09 10:46:22 IST 2025","1855","Surefire suite","Surefire test","compareclub.orangehrms.PimTest","compareclub.orangehrms.PimTest","verifyLogoutTest","verifyLogoutTest",""
+"passed","Tue Dec 09 10:45:44 IST 2025","Tue Dec 09 10:46:07 IST 2025","22898","Surefire suite","Surefire test","compareclub.orangehrms.PimTest","compareclub.orangehrms.PimTest","verifyEditEmployee","verifyEditEmployee",""
+"passed","Tue Dec 09 10:45:19 IST 2025","Tue Dec 09 10:45:44 IST 2025","24733","Surefire suite","Surefire test","compareclub.orangehrms.PimTest","compareclub.orangehrms.PimTest","verifyAddEmployee","verifyAddEmployee",""

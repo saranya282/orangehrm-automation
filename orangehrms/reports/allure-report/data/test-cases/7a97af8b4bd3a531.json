@@ -1,0 +1,60 @@
+{
+  "uid" : "7a97af8b4bd3a531",
+  "name" : "verifyDeleteEmployee",
+  "fullName" : "compareclub.orangehrms.PimTest.verifyDeleteEmployee",
+  "historyId" : "5e1410dd0dfc2c7cd4df3407ff6662b9",
+  "time" : {
+    "start" : 1765255486852,
+    "stop" : 1765255492628,
+    "duration" : 5776
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testClass",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyDeleteEmployee"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default suite"
+  }, {
+    "name" : "suite",
+    "value" : "Default test"
+  }, {
+    "name" : "subSuite",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N96C7RB"
+  }, {
+    "name" : "thread",
+    "value" : "11416@DESKTOP-N96C7RB.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a97af8b4bd3a531.json",
+  "parameterValues" : [ ]
+}

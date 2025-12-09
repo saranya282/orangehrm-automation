@@ -1,0 +1,166 @@
+{
+  "uid" : "249a97d72368dfb5",
+  "name" : "verifyEmployeeUsingApi",
+  "fullName" : "compareclub.orangehrms.PimTest.verifyEmployeeUsingApi",
+  "historyId" : "886094038123f201785f99784e7478bc",
+  "time" : {
+    "start" : 1765257367593,
+    "stop" : 1765257375051,
+    "duration" : 7458
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "driverSetup",
+    "time" : {
+      "start" : 1765257301450,
+      "stop" : 1765257319519,
+      "duration" : 18069
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  }, {
+    "name" : "setupObjects",
+    "time" : {
+      "start" : 1765257319522,
+      "stop" : 1765257319544,
+      "duration" : 22
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1765257382534,
+      "stop" : 1765257383657,
+      "duration" : 1123
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testClass",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyEmployeeUsingApi"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Surefire suite"
+  }, {
+    "name" : "suite",
+    "value" : "Surefire test"
+  }, {
+    "name" : "subSuite",
+    "value" : "compareclub.orangehrms.PimTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-N96C7RB"
+  }, {
+    "name" : "thread",
+    "value" : "19768@DESKTOP-N96C7RB.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "28936b8e61d14e4c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765256854293,
+        "stop" : 1765256860755,
+        "duration" : 6462
+      }
+    }, {
+      "uid" : "424e21a2962eaee3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765255916088,
+        "stop" : 1765255921989,
+        "duration" : 5901
+      }
+    }, {
+      "uid" : "44124c371cf91864",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765255784118,
+        "stop" : 1765255790762,
+        "duration" : 6644
+      }
+    }, {
+      "uid" : "ee10beefdded0279",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765255480299,
+        "stop" : 1765255486835,
+        "duration" : 6536
+      }
+    }, {
+      "uid" : "402c06b626c7c325",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765254533630,
+        "stop" : 1765254538198,
+        "duration" : 4568
+      }
+    }, {
+      "uid" : "1293af22228dbb92",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765254487151,
+        "stop" : 1765254495741,
+        "duration" : 8590
+      }
+    }, {
+      "uid" : "3f8973e06529385a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1765254323604,
+        "stop" : 1765254328681,
+        "duration" : 5077
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "249a97d72368dfb5.json",
+  "parameterValues" : [ ]
+}
